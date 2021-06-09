@@ -7,24 +7,22 @@
 - make clean
 
 ### 2. **Execution**
-- ./al -d <config_file>
-
-# Human-in-the-loop Interaction
-
-### 1. **Installation**
-- TODO
-
-### 2. **Execution**
-- TODO
+- ./al -d *<config_file>*
 
 
 # Trace Alignment
 
+### 1. **Preparation**
+- edit the file *<app.properties>* accordingly with the desired properties:
+  - **input_log**: the file path of the input UI log in XES format.
+  - **tasks**: the file paths to the routine segments as PNML objects.
+
 ### 1. **Installation**
-- TODO
+- compile source files into a generated JAR (i.e., *<segmentation.jar>*)
+- put file *<segmentation.jar>* in the same directory of *<app.properties>*
 
 ### 2. **Execution**
-- TODO
+- java -jar *<segmentation.jar>*
 
 
 

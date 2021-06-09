@@ -15,7 +15,7 @@
 ### 1. **Preparation**
 - Download the pre-built [Fast-Downward planner](https://drive.google.com/file/d/0B0FHkIijDk2heXd1X2FaUmktRDQ/view).
 - Unpack the .zip archive in the root folder of the Eclipse project. 
-- For **Windows users** only: 1. Download [standalone Python 2.7 interpreter](https://drive.google.com/file/d/0B0FHkIijDk2haVRxVE9ibzJXN00/view).
+- For **Windows users** only: Download [standalone Python 2.7 interpreter](https://drive.google.com/file/d/0B0FHkIijDk2haVRxVE9ibzJXN00/view).
 - For **Linux/Mac users** only: make sure that Python 2.7 interpreter is set as default.
 - edit the file *<app.properties>* accordingly with the desired properties:
   - **input_log**: the file path of the input UI log in XES format.

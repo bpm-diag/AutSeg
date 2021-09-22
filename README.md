@@ -1,7 +1,7 @@
 # Segments Discovery through Frequent-Pattern Identification
 
 ### 1. **Installation**
-- cd src
+- cd segmentator
 - make
 - make install
 - make clean

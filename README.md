@@ -10,10 +10,10 @@
 - ./al -d *<config_file>*
 
 
-# Human-in-the-loop Interaction
+# Human-in-the-loop Interaction through SCAN
 - Refer to https://github.com/bpm-diag/SCAN
 
-# Trace Alignment
+# Routine Trace Detection through Trace Alignment
 - Refer to https://github.com/bpm-diag/SUPSE
 
 

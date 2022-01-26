@@ -13,8 +13,8 @@
 # Human-in-the-loop Interaction through SCAN
 - Refer to https://github.com/bpm-diag/SCAN
 
-# Routine Trace Detection through Trace Alignment
-- Refer to https://github.com/bpm-diag/SUPSE
+# Routine Traces Detection through Trace Alignment
+- Refer to https://github.com/bpm-diag/SupSeg
 
 
 
